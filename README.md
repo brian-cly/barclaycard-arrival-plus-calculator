@@ -1,0 +1,1 @@
+Quick calculator written in Python to determine how much you should redeem of your Barclaycard Arrival Plus miles to leave enough for a future redemption.
